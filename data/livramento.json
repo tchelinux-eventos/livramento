@@ -1,0 +1,42 @@
+{
+    "id": "livramento",
+    "date": "2018-10-20",
+    "city": "Santana do Livramento",
+    "institution": {
+        "courses": [],
+        "long_name": "IFSul - Campus Santana do Livramento",
+        "short_name": "IFSul",
+        "address": "Paul Harris, 210 - Santana do Livramento",
+        "url": "http://www.santana.ifsul.edu.br/",
+        "logo": "ifsul.png",
+        "latitude": -30.9008579,
+        "longitude": -55.532844
+    },
+    "sponsors": [
+        {
+            "long_name": "Umbler",
+            "short_name": "Umbler",
+            "logo": "umbler.png",
+            "url": "http://www.umbler.com"
+        }
+    ],
+    "support": [
+    ],
+    "rooms" : [
+        { "number": "1", "subject": "" },
+        { "number": "2", "subject": "" }
+    ],
+    "callForPapers": {
+        "url": "https://goo.gl/forms/kkbOPKDnSkPuG4JX2",
+        "deadline": "2018-09-08",
+        "start": "2018-08-01"
+    },  
+    "enrollment": {
+        "start": "2018-09-15",
+        "deadline": "2018-10-20",
+        "url": "https://goo.gl/forms/8iKrYWmPc0Jrbl7b2",
+        "availability": 200,
+        "closed": true
+    }   
+}
+
