@@ -2,13 +2,13 @@
 
 ## Sobre
 
-O grupo de usuários de Software Livre Tchelinux, em parceria com a [Instituto Federal Sul-rio-grandense Campus Sant'Ana do Livramento](http://www.santana.ifsul.edu.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **13 de Abril de 2019 a partir das 8:30h** no IFSul em Sant'Ana do Livramento.
+O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Instituto Federal Sul-rio-grandense Campus Sant'Ana do Livramento**](http://www.santana.ifsul.edu.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **13 de Abril de 2019 a partir das 8:30h** no IFSul em Sant'Ana do Livramento.
 
 ## Inscrições
 
  O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região. Os alimentos são recebidos no momento do credenciamento.
 
-<a href="#" target="_blank"><b>Clique aqui para fazer sua inscrição!</b></a>
+<a href="https://goo.gl/forms/74ax6cvRD73I7SLp2" target="_blank"><b>Clique aqui para fazer sua inscrição!</b></a>
 
 ## Certificados
 
