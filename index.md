@@ -10,6 +10,8 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Instituto
 
 <a href="https://goo.gl/forms/74ax6cvRD73I7SLp2" target="_blank"><b>Clique aqui para fazer sua inscrição!</b></a>
 
+**Importante:** Para preencher o formulário é necessário estar logado na sua conta do Google.
+
 ## Certificados
 
 Serão fornecidos certificados digitais para os participantes do evento, que confirmaram sua presença. Para obtê-los, você deverá utilizar o email fornecido na sua inscrição para o evento.
