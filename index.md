@@ -111,3 +111,12 @@ Jerônimo Medina Madruga trabalha com suporte técnico e treinamento para educa�
 
 [![IFSul Sant'Ana do Livramento](images/ifsul.png)](http://www.santana.ifsul.edu.br/)
 
+### Patrocínio
+
+[![Patrocinadores](images/logo_patrocinadores.jpg)](https://livramento.tchelinux.org/)
+
+### Divulgação
+
+[![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
+[![Projeto Root](images/logo_projetoroot.png)](https://projetoroot.com.br/)
+[![PHP Conference Brasil](images/logo_phpconference.png)](https://phpconference.com.br/)
