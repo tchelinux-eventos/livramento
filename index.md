@@ -113,10 +113,14 @@ Jerônimo Medina Madruga trabalha com suporte técnico e treinamento para educa�
 
 ### Patrocínio
 
+<center>
 [![Patrocinadores](images/logo_patrocinadores.jpg)](https://livramento.tchelinux.org/)
+</center>
 
 ### Divulgação
 
+<center>
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
 [![Projeto Root](images/logo_projetoroot.png)](https://projetoroot.com.br/)
 [![PHP Conference Brasil](images/logo_phpconference.png)](https://phpconference.com.br/)
+</center>
